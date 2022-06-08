@@ -20,7 +20,6 @@ Ce document est rédigé en [MarkDown](https://fr.wikipedia.org/wiki/Markdown).
 
 ## Une image :
 ![illustration GitHub Docs](![image](https://user-images.githubusercontent.com/107099111/172561237-efe0384c-2afa-41a3-af4d-cb2e90a5881d.jpeg)
-)
 
 ## Une liste :
 - Toto ;
